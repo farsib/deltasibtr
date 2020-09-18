@@ -5,7 +5,7 @@
 
 cd /tmp
 
-wget https://raw.githubusercontent.com/farsib/deltasibtr/master/deltasibtr-1.0-1.el7.centos.noarch.rpm
+wget https://github.com/farsib/deltasibtr/releases/download/1.0/deltasibtr-1.0-1.el7.centos.noarch.rpm
 
 rpm -ih deltasibtr-1.0-1.el7.centos.noarch.rpm 
 
