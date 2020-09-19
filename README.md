@@ -12,3 +12,4 @@ rpm -ih deltasibtr-1.0-1.el7.centos.noarch.rpm
 translate.sh
 
 <div dir="rtl">زمانی که پیغام complete نمایش داده شد،دلتاسیب شما فارسی شده است .</div>
+![](images/1.png)
